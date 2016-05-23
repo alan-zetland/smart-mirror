@@ -1,5 +1,6 @@
 //js
 
+// Smart Mirror solution developed by Alan Hill (http://www.zetlanddesign.co.uk).
 
 // weather plugin from http://simpleweatherjs.com/
 
