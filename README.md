@@ -20,4 +20,11 @@ Some credits:
 
 // date format from: http://blog.stevenlevithan.com/archives/date-time-format
 
+(Very) basic usage:
+
+- Put all the files in same folder on root of localhost site
+- Create an API key on the Google Calendar API website, specifying what hosts to allow the connection from (either "localhost" or a virtual directory you created on your web server on the tablet)
+- Replace all the variables at the top with your own details (calendar ID, location city for weather etc)
+- First time the code runs, it will prompt you to click "authorise" to allow the localhost site to access your Google data, subsequently it will work straight away.
+
 
